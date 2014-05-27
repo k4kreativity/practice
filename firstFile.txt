@@ -1,4 +1,0 @@
-This is my first file.
-I added a second line to this file.
-This is a change I made, but I am not gonna commit it.
-It comes before all other ffiles.
